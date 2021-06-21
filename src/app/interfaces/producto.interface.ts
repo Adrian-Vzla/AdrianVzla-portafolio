@@ -1,4 +1,3 @@
-
 export interface Producto {
     categoria: string;
     cod: string;
